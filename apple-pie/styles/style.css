@@ -1,0 +1,88 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#imageTitle {
+	background-image: url("../images/apple-pie.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: auto;
+	height: 800px;
+	font-size: 80px;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+		sans-serif;
+	text-align: center;
+	line-height: 800px;
+	color: white;
+}
+
+.text {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+		sans-serif;
+	text-justify: auto;
+	align-items: center;
+	margin-left: 5%;
+	font-size: 28px;
+	font-weight: 100;
+}
+
+p {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+		sans-serif;
+	text-justify: auto;
+	align-items: center;
+	text-align: center;
+	font-size: 45px;
+	font-weight: 100;
+}
+
+.headingTitle {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+		sans-serif;
+	font-size: 35px;
+	justify-content: center;
+	text-align: justify;
+	margin-left: 12.5%;
+}
+
+#recipeInfo {
+	background-image: url("../images/recipe-info.png");
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#cookingTime {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.recipe-list {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+		sans-serif;
+	font-size: 23px;
+	font-weight: 100;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding-left: 10%;
+	display: block;
+}
+
+.instructions {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+		sans-serif;
+	font-size: 23px;
+	font-weight: 100;
+	margin-left: 5%;
+	margin-right: 15%;
+	padding-left: 10%;
+	display: block;
+}
+
+.directions {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+		sans-serif;
+	font-size: 30px;
+}
